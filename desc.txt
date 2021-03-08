@@ -1,0 +1,32 @@
+<h2>About me</h2>
+          <p>
+            Since I was a child, I was drawn to technology. I was the typical
+            tech kid that loved videogames, gadgets and all the tech stuff that
+            was booming out.
+          </p>
+          <p>
+            Living in a country who encourages you to follow traditional
+            lifestyles, my good grades made me start my path in med school,
+            which lasted eight years. But you know that feeling that something
+            is not right? I wasn’t feeling accomplished, I didn’t feel happy, at
+            least not entirely.
+          </p>
+          <p>
+            I took a break and decided to think about what my genuine self was
+            passioned about, when a friend told me about Udacity. Honestly, it
+            was love at first sight. I started looking the immense list of
+            awesome courses, trying to understand which could fit me better, but
+            it was easy though. It hooked me as soon as I read “Android
+            Courses”.
+          </p>
+          <p>
+            Guys, that magic of developing your first simple “Hello World” app
+            and make it run on your phone is just unforgettable. The more I
+            learnt, the more I started to invest that knowledge in my field,
+            healthcare. When Google Scholarship was announced, it was an
+            exciting opportunity to “make things official” with Udacity, Google
+            and Android.Once that friend that introduced me to this world also
+            got the Google Scholarship we started working together developing an
+            healthcare product.
+          </p>
+          <p>Life takes many turns, doesn’t it?</p>

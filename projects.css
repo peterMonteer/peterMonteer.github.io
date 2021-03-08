@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Proza+Libre:wght@700&display=swap");
+
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+header {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  border-bottom: 2px black solid;
+  margin-bottom: 16px;
+}
+
+main {
+  padding: 10px;
+}
+
+h1 {
+  font-size: xx-large;
+  font-family: "Proza Libre", sans-serif;
+}
+
+h2 {
+  font-size: x-large;
+  font-family: "Proza Libre", sans-serif;
+}
+
+section {
+  margin-bottom: 50px;
+}
+
+nav {
+  margin: 0;
+  margin-left: auto;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  margin: 10px;
+}
+
+.about-me {
+  display: flex;
+}
+
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.project {
+  display: flex;
+  background-image: url(./res/images/sampleProjectPhoto.webp);
+  background-size: cover;
+  background-position: center;
+  box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
+  width: 30%;
+  height: 300px;
+  border-radius: 10%;
+  margin-bottom: 30px;
+  align-items: center;
+  justify-content: center;
+}
+
+h3 {
+  color: white;
+  font-family: "Lobster", sans-serif;
+  font-size: 30px;
+  text-align: center;
+  z-index: 2;
+}
+
+article h2 {
+  margin-bottom: 30px;
+}
